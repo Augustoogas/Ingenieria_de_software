@@ -28,7 +28,11 @@ El problema elegido es acceso centralizado a la base de datos,  Para este proble
 	Este patrón ayudaría en el ahorro de recursos que costaría tener múltiples conexiones a la base de datos.
 
 ## Esquema gráfico(UML):
-https://lucid.app/lucidchart/ad46a4f4-df3d-41d0-bba3-7ab4b166af25/edit?viewport_loc=-397%2C-212%2C2992%2C1488%2C0_0&invitationId=inv_c7fe68e3-2b22-43e0-a488-324a032e4f85
+https://lucid.app/lucidchart/ad46a4f4-df3d-41d0-bba3-7ab4b166af25/edit?viewport_loc=-397%2C-212%2C2992%2C1488%2C0_0&invitationId=inv_c7fe68e3-2b22-43e0-a488-324a032e4f85  
+
+>[!IMPORTANT]
+>NAVEGUE POR LAS PESTAÑAS DENTRO DE LUCIDCHART PARA VER EL DIAGRAMA DE PAQUETES Y EL DIAGRAMA DE DOMINIO
+
 
 
 
