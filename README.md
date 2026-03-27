@@ -32,3 +32,6 @@ Estructura de capas implementada:
 - Service: `src/service/*.py`
 - Model: `src/model/*.py`
 - Repository (Singleton in-memory): `src/repository/*.py`
+
+
+cucurella
